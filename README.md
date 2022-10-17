@@ -6,7 +6,7 @@
 
 - 👨🏻‍💻 Programming: Python, R, SQL
 
-- 🤖 Machine Learning: Regression, Classification, Linear and Logistic Regression, Natural Language Processing (NLP), Feature Engineering, Naive Bayes, Decision Trees, Random Forests, Neural Networks, K-Nearest Neighbors, Clustering, K-Means, CNN, XGB
+- 🤖 Machine Learning: Classification, Linear and Logistic Regression, Natural Language Processing (NLP), Feature Engineering, Naive Bayes, Decision Trees, Random Forests, Neural Networks, K-Nearest Neighbors, K-Means, Clustering CNN, XGB
 
 - 🛠 Tools: Tableau, PowerBI, Databricks, Amazon Web Services (AWS)
 
